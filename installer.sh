@@ -11,6 +11,6 @@ rm -rf git
 chmod -x /.everyfile/bin/everyfile.sh
 mv /.everyfile/bin/everyfile.sh /.everyfile/bin/everyfile
 echo >> ~/.bashrc
-echo "/.everyfile/bin" >> ~/.bashrc
+echo "PATH=$PATH:/.everyfile/bin" >> ~/.bashrc
 source ~/.bashrc
 echo "Installation complete! Now you can use 'sudo everyfile' to search all across your computer"
