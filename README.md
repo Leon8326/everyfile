@@ -1,3 +1,2 @@
-## A script to search for EVERYTHING.
-# Test
-Only works on linux (or macOS)
+# A script to search for EVERYTHING.
+Only works on linux (or macOS), ther will never be a windows port.
