@@ -7,7 +7,7 @@ This script alows users to search for any file or directory that is on their com
 Use your package manager to install curl and run:
 
 ```
-curl -sSL https://raw.githubusercontent.com/leon8326/everyfile/main/install.sh
+curl -sSL https://raw.githubusercontent.com/leon8326/everyfile/main/installer.sh
 ```
 
 ### Homebrew
