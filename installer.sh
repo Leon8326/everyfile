@@ -4,6 +4,7 @@ sleep 10
 mkdir /.everyfile
 git clone https://github.com/Leon8326/everyfile /.everyfile/git
 cd /.everyfile/git
+mkdir /.everyfile/bin
 cp everyfile.sh /.everyfile/bin/everyfile.sh
 cd /.everyfile
 rm -rf git
